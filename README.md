@@ -35,7 +35,7 @@ cd book-haven
 ```
 ### 2. Navigate to the backend folder and install dependencies:
 ```bash
-cd backend
+cd server
 npm install
 ```
 ### 3. Create a `.env` file and add your environment variables:
@@ -51,7 +51,7 @@ npm start
 ```
 ### 5. Navigate to the frontend folder and install dependencies:
 ```bash
-cd frontend
+cd client
 npm install
 ```
 ### 6. Start the frontend application:
